@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Mai!
+
+🔭 I'm currently working on data science projects, mainly in computer vision tasks such as object detection and segmentation. 
+Data science and technologies are constantly evolving everyday, and I'm excited that there's always something new to learn and explore! 
+
+🌱 I'm currently learning more of the devops tools like Ansible and Terraform, and reading up on the emerging web3.
 
 <!--
 **immaixq/immaixq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
